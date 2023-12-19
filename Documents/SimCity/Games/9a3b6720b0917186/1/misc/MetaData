@@ -1,0 +1,406 @@
+{
+  "boxId" : 1,
+  "boxes" : [
+    {
+      "abandoned" : "false",
+      "created" : "1675196840524",
+      "creator" : {
+        "avatarImage" : "D:\\Games\\SimCity\\SimCity\\avatar.jpg",
+        "canChat" : true,
+        "cities_count" : 0,
+        "id" : 305402420,
+        "isOnline" : "false",
+        "lastLogin" : 0,
+        "nucleusId" : 305402420,
+        "screenName" : "LimeSnarf",
+        "tutorialState" : 1
+      },
+      "creatorId" : 305402420,
+      "creatorName" : "LimeSnarf",
+      "description" : "",
+      "id" : 2,
+      "isClaimed" : "true",
+      "isFriend" : "false",
+      "isTutorial" : "false",
+      "name" : "Хребет Трейдера",
+      "offensive" : "false",
+      "regionTemplateName" : "Reflection",
+      "resources" : {
+        "mayor_Rating" : {
+          "amount" : 71
+        },
+        "simoleons" : {
+          "amount" : 6761
+        },
+        "simoleonsForFrontEnd" : {
+          "amount" : 13757
+        },
+        "total_Residential" : {
+          "amount" : 84
+        }
+      },
+      "status" : "ACTIVE",
+      "ticks" : 469,
+      "type" : "CITY",
+      "uid" : 1026,
+      "updated" : "1675197640426"
+    },
+    {
+      "abandoned" : "false",
+      "created" : "1675196840524",
+      "creator" : {
+        "avatarImage" : "D:\\Games\\SimCity\\SimCity\\avatar.jpg",
+        "canChat" : true,
+        "cities_count" : 0,
+        "id" : 305402420,
+        "isOnline" : "false",
+        "lastLogin" : 0,
+        "nucleusId" : 305402420,
+        "screenName" : "LimeSnarf",
+        "tutorialState" : 1
+      },
+      "creatorId" : 305402420,
+      "creatorName" : "LimeSnarf",
+      "description" : "",
+      "id" : 3,
+      "idi" : 1625,
+      "isClaimed" : "false",
+      "isFriend" : "false",
+      "isTutorial" : "false",
+      "name" : "",
+      "offensive" : "false",
+      "regionTemplateName" : "Reflection",
+      "resources" : {
+        "mayor_Rating" : {
+          "amount" : 0
+        },
+        "simoleons" : {
+          "amount" : 0
+        },
+        "simoleonsForFrontEnd" : {
+          "amount" : 50000
+        },
+        "total_Residential" : {
+          "amount" : 0
+        }
+      },
+      "status" : "ACTIVE",
+      "ticks" : 0,
+      "type" : "CITY",
+      "uid" : 1027,
+      "updated" : "1675196840524"
+    },
+    {
+      "abandoned" : "false",
+      "created" : "1675196840524",
+      "creator" : {
+        "avatarImage" : "D:\\Games\\SimCity\\SimCity\\avatar.jpg",
+        "canChat" : true,
+        "cities_count" : 0,
+        "id" : 305402420,
+        "isOnline" : "false",
+        "lastLogin" : 0,
+        "nucleusId" : 305402420,
+        "screenName" : "LimeSnarf",
+        "tutorialState" : 1
+      },
+      "creatorId" : 305402420,
+      "creatorName" : "LimeSnarf",
+      "description" : "",
+      "id" : 4,
+      "idi" : 2001,
+      "isClaimed" : "false",
+      "isFriend" : "false",
+      "isTutorial" : "false",
+      "name" : "",
+      "offensive" : "false",
+      "regionTemplateName" : "Reflection",
+      "resources" : {
+        "mayor_Rating" : {
+          "amount" : 0
+        },
+        "simoleons" : {
+          "amount" : 0
+        },
+        "simoleonsForFrontEnd" : {
+          "amount" : 50000
+        },
+        "total_Residential" : {
+          "amount" : 0
+        }
+      },
+      "status" : "ACTIVE",
+      "ticks" : 0,
+      "type" : "CITY",
+      "uid" : 1028,
+      "updated" : "1675196840524"
+    },
+    {
+      "abandoned" : "false",
+      "created" : "1675196840524",
+      "creator" : {
+        "avatarImage" : "D:\\Games\\SimCity\\SimCity\\avatar.jpg",
+        "canChat" : true,
+        "cities_count" : 0,
+        "id" : 305402420,
+        "isOnline" : "false",
+        "lastLogin" : 0,
+        "nucleusId" : 305402420,
+        "screenName" : "LimeSnarf",
+        "tutorialState" : 1
+      },
+      "creatorId" : 305402420,
+      "creatorName" : "LimeSnarf",
+      "description" : "",
+      "id" : 5,
+      "idi" : 3085,
+      "isClaimed" : "false",
+      "isFriend" : "false",
+      "isTutorial" : "false",
+      "name" : "",
+      "offensive" : "false",
+      "regionTemplateName" : "Reflection",
+      "resources" : {
+        "mayor_Rating" : {
+          "amount" : 0
+        },
+        "simoleons" : {
+          "amount" : 0
+        },
+        "simoleonsForFrontEnd" : {
+          "amount" : 50000
+        },
+        "total_Residential" : {
+          "amount" : 0
+        }
+      },
+      "status" : "ACTIVE",
+      "ticks" : 0,
+      "type" : "CITY",
+      "uid" : 1029,
+      "updated" : "1675196840524"
+    },
+    {
+      "abandoned" : "false",
+      "created" : "1675196840524",
+      "creator" : {
+        "avatarImage" : "D:\\Games\\SimCity\\SimCity\\avatar.jpg",
+        "canChat" : true,
+        "cities_count" : 0,
+        "id" : 305402420,
+        "isOnline" : "false",
+        "lastLogin" : 0,
+        "nucleusId" : 305402420,
+        "screenName" : "LimeSnarf",
+        "tutorialState" : 1
+      },
+      "creatorId" : 305402420,
+      "creatorName" : "LimeSnarf",
+      "description" : "",
+      "id" : 6,
+      "idi" : 4891,
+      "isClaimed" : "false",
+      "isFriend" : "false",
+      "isTutorial" : "false",
+      "name" : "",
+      "offensive" : "false",
+      "regionTemplateName" : "Reflection",
+      "resources" : {
+        "mayor_Rating" : {
+          "amount" : 0
+        },
+        "simoleons" : {
+          "amount" : 0
+        },
+        "simoleonsForFrontEnd" : {
+          "amount" : 50000
+        },
+        "total_Residential" : {
+          "amount" : 0
+        }
+      },
+      "status" : "ACTIVE",
+      "ticks" : 0,
+      "type" : "CITY",
+      "uid" : 1030,
+      "updated" : "1675196840524"
+    },
+    {
+      "abandoned" : "false",
+      "created" : "1675196840524",
+      "creator" : {
+        "avatarImage" : "D:\\Games\\SimCity\\SimCity\\avatar.jpg",
+        "canChat" : true,
+        "cities_count" : 0,
+        "id" : 305402420,
+        "isOnline" : "false",
+        "lastLogin" : 0,
+        "nucleusId" : 305402420,
+        "screenName" : "LimeSnarf",
+        "tutorialState" : 1
+      },
+      "creatorId" : 305402420,
+      "creatorName" : "LimeSnarf",
+      "description" : "",
+      "id" : 7,
+      "idi" : 4380,
+      "isClaimed" : "false",
+      "isFriend" : "false",
+      "isTutorial" : "false",
+      "name" : "",
+      "offensive" : "false",
+      "regionTemplateName" : "Reflection",
+      "resources" : {
+        "mayor_Rating" : {
+          "amount" : 0
+        },
+        "simoleons" : {
+          "amount" : 0
+        },
+        "simoleonsForFrontEnd" : {
+          "amount" : 50000
+        },
+        "total_Residential" : {
+          "amount" : 0
+        }
+      },
+      "status" : "ACTIVE",
+      "ticks" : 0,
+      "type" : "CITY",
+      "uid" : 1031,
+      "updated" : "1675196840524"
+    },
+    {
+      "abandoned" : "false",
+      "created" : "1675196840524",
+      "creator" : {
+        "avatarImage" : "D:\\Games\\SimCity\\SimCity\\avatar.jpg",
+        "canChat" : true,
+        "cities_count" : 0,
+        "id" : 305402420,
+        "isOnline" : "false",
+        "lastLogin" : 0,
+        "nucleusId" : 305402420,
+        "screenName" : "LimeSnarf",
+        "tutorialState" : 1
+      },
+      "creatorId" : 305402420,
+      "creatorName" : "LimeSnarf",
+      "description" : "",
+      "id" : 8,
+      "idi" : 284,
+      "isClaimed" : "false",
+      "isFriend" : "false",
+      "isTutorial" : "false",
+      "name" : "",
+      "offensive" : "false",
+      "regionTemplateName" : "Reflection",
+      "resources" : {
+        "mayor_Rating" : {
+          "amount" : 0
+        },
+        "simoleons" : {
+          "amount" : 0
+        },
+        "simoleonsForFrontEnd" : {
+          "amount" : 50000
+        },
+        "total_Residential" : {
+          "amount" : 0
+        }
+      },
+      "status" : "ACTIVE",
+      "ticks" : 0,
+      "type" : "CITY",
+      "uid" : 1032,
+      "updated" : "1675196840524"
+    }
+  ],
+  "created" : "1675196840524",
+  "creator" : {
+    "avatarImage" : "D:\\Games\\SimCity\\SimCity\\avatar.jpg",
+    "canChat" : true,
+    "cities_count" : 0,
+    "id" : 305402420,
+    "isOnline" : "false",
+    "lastLogin" : 0,
+    "nucleusId" : 305402420,
+    "screenName" : "LimeSnarf",
+    "tutorialState" : 1
+  },
+  "creatorId" : 305402420,
+  "creatorName" : "LimeSnarf",
+  "description" : "",
+  "id" : 1,
+  "map" : {
+    "cities" : [
+      {
+        "uid" : "1026",
+        "x" : 4576,
+        "y" : 2848,
+        "z" : -836.799987792968750
+      },
+      {
+        "uid" : "1027",
+        "x" : 5376,
+        "y" : -1472,
+        "z" : -855.299987792968750
+      },
+      {
+        "uid" : "1028",
+        "x" : 4128,
+        "y" : -4176,
+        "z" : -837
+      },
+      {
+        "uid" : "1029",
+        "x" : -1360,
+        "y" : -640,
+        "z" : -855.40002441406250
+      },
+      {
+        "uid" : "1030",
+        "x" : -896,
+        "y" : 1920,
+        "z" : -851.90002441406250
+      },
+      {
+        "uid" : "1031",
+        "x" : -3968,
+        "y" : 2208,
+        "z" : -845.90002441406250
+      },
+      {
+        "uid" : "1032",
+        "x" : -304,
+        "y" : 4736,
+        "z" : -850.299987792968750
+      }
+    ],
+    "greatWorks" : [
+      {
+        "name" : "Region_GreatWorks_Empty",
+        "x" : 1436,
+        "y" : -1867
+      }
+    ]
+  },
+  "name" : "Мне пофиг",
+  "privacySetting" : "",
+  "sandbox" : false,
+  "sdid" : "101",
+  "template" : {
+    "boxes" : [],
+    "height" : 4,
+    "key" : "251",
+    "localizedName" : "Reflection",
+    "map" : {},
+    "name" : "Reflection",
+    "postcard" : "http://s3.amazonaws.com/sc-euwest1-prod-global/images/region_templates/missing_region_template.png",
+    "priority_order" : 3,
+    "status" : "ACTIVE",
+    "width" : 4
+  },
+  "ticks" : 161,
+  "updated" : "1675197640426"
+}
